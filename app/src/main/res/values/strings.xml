@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Proyecto Taller</string>
+    <string name="scan">Escanear</string>
+    <string name="guardar_producto">Guardar Producto</string>
+    <string name="nombre_producto">Nombre Producto:</string>
+    <string name="descripcion_producto">Descripción Producto:</string>
+</resources>
